@@ -17,10 +17,6 @@
 
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![POWER BI](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-### CANVA
-### EXCEL
-### POWER BI
+##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro_icons=true&theme=radical)
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro_icons=true&theme=dracula&count_private=true)
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username={Thiago-engenheiro}&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=radical)
