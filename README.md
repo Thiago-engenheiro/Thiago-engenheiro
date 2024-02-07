@@ -43,3 +43,4 @@
 - Ainda não fiz
 
 ---
+![snake animation](https://github.com/<seu Thiago-engenheiro>/<seu Thiago-engenheiro>/blob/output/github-contribution-grid-snake2.svg)
