@@ -1,6 +1,7 @@
 ![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art%20(1).png?raw=true)
 
-<h1>Sou engenheiro de sofware, trabalho com front end &nbsp <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 
 ##### 📝 Ainda não pensei o que escrever aqui
 
