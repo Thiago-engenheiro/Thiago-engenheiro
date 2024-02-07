@@ -1,4 +1,4 @@
-![image](https://github.com/Thiago-engenheiro/Capa__Github/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art%20(1).png?raw=true)
+![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art%20(1).png?raw=true)
 
 <h1>Sou engenheiro de sofware, trabalho com front end <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
@@ -19,4 +19,4 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=radical)
+![Thiago-engenheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-engenheiro&layout=compact)
