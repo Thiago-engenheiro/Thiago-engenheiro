@@ -26,7 +26,7 @@
 
 ![Visual studios](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💡  Outras tecnologias que tambem tenho conhecimento:
+## 💡 Outras tecnologias que tambem tenho conhecimento:
 
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![POWER BI](https://img.shields.io/badge/Power_Bi-F7DF1E?style=for-the-badge&logo=microsoft-excel&logoColor=black)![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
@@ -34,12 +34,12 @@
 ![Thiago-engenheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-engenheiro&layout=compact&theme=dracula)
 
 ---
+## 🖍 PORTFOLIO DE REPOSITORIO:
 
+- Ainda não fiz
+- Ainda não fiz
+- Ainda não fiz
+- Ainda não fiz
+- Ainda não fiz
 
-      - `half-year`: 180 days
-      - `full-year`: 1 year
-    type: string
-    default: half-year
-    values:
-      - half-year
-      - full-year
+---
