@@ -38,7 +38,7 @@
 ![Thiago-engenheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-engenheiro&layout=compact&theme=dracula)
 
 ---
-## 🖍 PORTFOLIO DE REPOSITORIO:
+## 🖍 PORTFOLIO DOS REPOSITORIO FAVORITOS:
 
 - Ainda não fiz
 - Ainda não fiz
