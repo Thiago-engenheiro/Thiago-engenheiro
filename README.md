@@ -1,3 +1,5 @@
+
+
 ![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art%20(1).png?raw=true)
 
 <h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
@@ -40,11 +42,13 @@
 ---
 ## 🖍 PORTFOLIO DOS REPOSITORIO FAVORITOS:
 
+- https://github.com/Thiago-engenheiro/Projeto-04 - Alura
 - Ainda não fiz
 - Ainda não fiz
 - Ainda não fiz
 - Ainda não fiz
-- Ainda não fiz
+
+
 
 ---
 <picture>
