@@ -5,7 +5,7 @@
 <h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-##### 📝 Aos 24 anos, estou focado em expandir minha trajetória acadêmica na Universidade Católica de Brasília (DF), enquanto busco ampliar meus conhecimentos através da plataforma Alura. Atualmente, estou envolvido em um estágio na área de infraestrutura, porém, minha aspiração é direcionar minha carreira para o desenvolvimento.
+##### 📝 Ainda não fiz
 
 ---
 
