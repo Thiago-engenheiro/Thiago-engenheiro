@@ -51,6 +51,7 @@
 
 
 ---
+#### As vezes para cobrinha aqui embaixo funcionar, precisa carrega a pagina (:    
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
