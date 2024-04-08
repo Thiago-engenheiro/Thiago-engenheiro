@@ -1,11 +1,11 @@
 
 
-![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art%20(1).png?raw=true)
+![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art.png?raw=true)
 
 <h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-##### 📝 Ainda não fiz
+##### 📝 No início da minha faculdade, busquei um estágio é encontrei na área de suporte TI, Agora, próximo ao término do meu estágio, decidi mudar de objetivo e focar meus estudos em Front-End em 2024. 
 
 ---
 
@@ -15,17 +15,17 @@
 
   - 💬 Ainda não fiz
 
-  - ⚡ Ainda não fiz \o/
+  - 📚 Faço engenharia de software e estou no 7 semestre (pretendo fazer Pós em front end) e atualmente estou estudando principalmente pela plataforma da Alura 
 
-  -  Ainda não fiz (curiosidade)
+  - 🧐 Curiosidade: apesar do nariz um pouco grande eu não sinto cheiro das coisas kkk 
 
-  -  Ainda não fiz (musiquinha)
+  -  Ainda não fiz (music)
 </details>
 
 ## 🌐 LINK 
 
 #### Portfolio pessoal:
-#### mail: thiago.principal11@outlook.com.br
+#### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
 #### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
 
 ## ⚙️ Tecnologias - front que eu uso no meu dia:
@@ -42,7 +42,7 @@
 ---
 ## 🖍 PORTFOLIO DOS REPOSITORIO FAVORITOS:
 
-- https://github.com/Thiago-engenheiro/Projeto-04 - Alura
+- Ainda não fiz
 - Ainda não fiz
 - Ainda não fiz
 - Ainda não fiz
