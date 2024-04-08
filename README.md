@@ -4,8 +4,7 @@
 
 <h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
-##### 📝 No início da minha faculdade, busquei um estágio é encontrei na área de suporte TI, Agora, próximo ao término do meu estágio, decidi mudar de objetivo e focar meus estudos em Front-End em 2024. 
+##### 📝 No início da minha faculdade, busquei um estágio e encontrei na área de suporte de TI. Agora, próximo ao término do meu estágio, decidi mudar de objetivo e focar meus estudos em Front-End em 2024. 
 
 ---
 
@@ -13,14 +12,15 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Ainda não fiz
+  - 💬 Ainda não fiz.
 
-  - 📚 Faço engenharia de software e estou no 7 semestre (pretendo fazer Pós em front end) e atualmente estou estudando principalmente pela plataforma da Alura 
+  - 📚 Faço engenharia de software e estou no 7º semestre (pretendo fazer Pós em Front-End) e atualmente estou estudando principalmente pela plataforma da Alura.
 
-  - 🧐 Curiosidade: apesar do nariz um pouco grande eu não sinto cheiro das coisas kkk 
+  - 🧐 Curiosidade: apesar do nariz um pouco grande, eu não sinto cheiro das coisas kkk.
 
-  -  Ainda não fiz (music)
+  - Ainda não fiz (música).
 </details>
+
 
 ## 🌐 LINK 
 
