@@ -4,13 +4,15 @@
 
 <h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+## 👤 Sobre mim
+
 ##### 📝 Ainda não fiz 
 
 ---
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 Mais sobre mim (clica para expandir)</summary>
 
   - 💬 Ainda não fiz.
 
@@ -21,12 +23,24 @@
   - Ainda não fiz (música).
 </details>
 
+<!-- Dropdown -->
+<details>
+  <summary> 🏆 Meus cursos e certificados (clica para expandir)</summary>
+
+  -  Ainda não fiz.
+
+</details>
+
 
 ## 🌐 LINK 
 
 #### Portfolio pessoal: Sem link ainda 
+#### Curriculo em PDF: Sem link ainda 
+#### Diploma de graduação: Sem link ainda 
+#### Diploma de pós-graduação: Sem link ainda 
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
 #### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
+#### WhatsApp: Sem link ainda 
 
 ## ⚙️ Tecnologias - front que eu uso no meu dia:
 
