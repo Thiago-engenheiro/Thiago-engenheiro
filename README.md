@@ -113,12 +113,12 @@
 
 
 #### Portfolio pessoal: Sem link ainda 
-#### Curriculo em PDF: Sem link ainda 
+#### Curriculo em PDF: https://www.canva.com/design/DAFryksevHQ/YWUvHHp96fLt6lw89A1LEQ/view?utm_content=DAFryksevHQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
 #### Diploma de graduação: Sem link ainda 
 #### Diploma de pós-graduação: Sem link ainda 
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
 #### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
-#### WhatsApp: Sem link ainda 
+#### WhatsApp: https://wa.me/61999887970
 
 ## ⚙️ Tecnologias - front que eu uso no meu dia:
 
