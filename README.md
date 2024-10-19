@@ -6,7 +6,7 @@
 
 ## 👤 Sobre mim
 
-##### 📝 Ainda não fiz 
+##### 📝 No início da minha trajetória na faculdade, decidi buscar um estágio e encontrei uma oportunidade na área de suporte em TI. No entanto, à medida que meu estágio se aproxima do fim, percebo que meu verdadeiro interesse está na área de Front-End. Com isso, decidi redirecionar meu foco e intensificar meus estudos nessa área
 
 ---
 
@@ -30,19 +30,20 @@
   ---
   
  <details>
-            <summary> 🟠 HTML (clique para expandir)</summary>
+            <summary> 🟠 HTML // 🔵 CSS  (clique para expandir)</summary>
 
 >
- - vazio
-
-</details>
-
-<details>
-            <summary> 🔵 CSS (clique para expandir)</summary>
-
->
-- Tailwind CSS: estilizando a sua página com classes utilitárias: https://cursos.alura.com.br/certificate/3c630609-260e-45ef-b51c-4bd38bfd569b?lang=pt_BR
-- SASS e CSS: estilizando um site: https://cursos.alura.com.br/certificate/3cb387ee-ecbc-473a-9c6f-7fc847c4928b?lang=pt_BR
+ - Praticando CSS: Grid e Flexbox: https://cursos.alura.com.br/certificate/2b100a07-b0dd-4846-b007-e29d40cf6736?lang=pt_BR
+ - HTML e CSS: trabalhando com responsividade e publicação de projetos: https://cursos.alura.com.br/certificate/b6cec22b-fb52-4adf-b5ff-7e4bdd02bfa7?lang=pt_BR
+ - HTML e CSS: responsividade com mobile-first: https://cursos.alura.com.br/certificate/58a38997-f681-4e32-a564-fcea74c3cc05?lang=pt_BR
+ - HTML e CSS: praticando HTML/CSS: https://cursos.alura.com.br/certificate/fb0878d8-dd61-457d-992e-91fb0fea1418?lang=pt_BR
+ - HTML e CSS: Classes, posicionamento e Flexbox: https://cursos.alura.com.br/certificate/14a57e0e-9040-43c9-a770-5cd11c6ebd14?lang=pt_BR
+ - HTML e CSS: cabeçalho, footer e variáveis CSS: https://cursos.alura.com.br/certificate/f08f4f25-c548-45cd-b46e-0b156e357059?lang=pt_BR
+ - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags: https://cursos.alura.com.br/certificate/f08f4f25-c548-45cd-b46e-0b156e357059?lang=pt_BR
+ - CSS: Flexbox e layouts responsivos: https://cursos.alura.com.br/certificate/775f5945-e037-4b6c-92c0-1848b9270962?lang=pt_BR
+ - CSS: construindo layouts com Grid: https://cursos.alura.com.br/certificate/83e4ee14-2a0a-4457-8c5b-c6912109f51f?lang=pt_BR
+ - Arquitetura CSS: descomplicando os problemas: https://cursos.alura.com.br/certificate/7ba703c1-2454-4910-a2a7-03d7742c7d95?lang=pt_BR
+ - Acessibilidade no HTML: escrevendo códigos semânticos para inclusão: https://cursos.alura.com.br/certificate/3809a31a-229a-4cd8-aa01-71d56a89850c?lang=pt_BR
 
 </details>
 
@@ -50,7 +51,19 @@
             <summary> 🟡 JavaScript (clique para expandir)</summary>
 
 >
-- vazio
+- Lógica de programação: praticando com desafios: https://cursos.alura.com.br/certificate/ddc9b6b3-7fc1-445e-8880-0ca71aa886db?lang=pt_BR
+- Lógica de programação: mergulhe em programação com JavaScript: https://cursos.alura.com.br/certificate/467df380-c9c0-4b41-b800-4b00fbfc91c8?lang=pt_BR
+- Lógica de programação: explore funções e listas: https://cursos.alura.com.br/certificate/21d18082-f521-4f0b-8948-e5514b673515?lang=pt_BR
+- Lógica de programação: explore funções e listas: https://cursos.alura.com.br/certificate/21d18082-f521-4f0b-8948-e5514b673515?lang=pt_BR
+- JavaScript: validações e reconhecimento de voz: https://cursos.alura.com.br/certificate/eeeb0bfe-37f9-4515-b0d0-4537a0cd7075?lang=pt_BR
+- JavaScript: métodos de array: https://cursos.alura.com.br/certificate/7e5dcdea-ee66-44cf-a552-02e95d3fb668?lang=pt_BR
+- JavaScript: manipulando elementos no DOM: https://cursos.alura.com.br/certificate/0d4c6e42-da87-4273-8769-820c9dc1b867?lang=pt_BR
+- JavaScript: explorando a manipulação de elementos e da localStorage: https://cursos.alura.com.br/certificate/5923da51-139e-48a4-a681-7a1466b6450e?lang=pt_BR
+- JavaScript: explorando a linguagem: https://cursos.alura.com.br/certificate/306e0580-7a39-4562-82df-d40640d423ed?lang=pt_BR
+- JavaScript: entendendo promises e async/await: https://cursos.alura.com.br/certificate/32b86fdc-028d-45df-9fcc-a60702666e35?lang=pt_BR
+- JavaScript: consumindo e tratando dados de uma API: https://cursos.alura.com.br/certificate/c4592abe-c407-43b4-bbf0-630de1f81dc5?lang=pt_BR
+- JavaScript: construindo páginas dinâmicas: https://cursos.alura.com.br/certificate/e9e7c2d3-781d-43f6-ab6e-eac3caf05471?lang=pt_BR
+- JavaScript para Web: Crie páginas dinâmicas: https://cursos.alura.com.br/certificate/9fbf82dc-a8eb-4aa5-87f8-a888cff326be?lang=pt_BR
 
 </details>
 
@@ -75,7 +88,8 @@
             <summary> 🟣 frameworks (clique para expandir)</summary>
   
 >
-- vazio
+- Tailwind CSS: estilizando a sua página com classes utilitárias: https://cursos.alura.com.br/certificate/3c630609-260e-45ef-b51c-4bd38bfd569b?lang=pt_BR
+- SASS e CSS: estilizando um site: https://cursos.alura.com.br/certificate/3cb387ee-ecbc-473a-9c6f-7fc847c4928b?lang=pt_BR
 
 </details>
 
@@ -85,6 +99,11 @@
 >
 - WordPress: crie sites com Elementor e Figma: https://cursos.alura.com.br/certificate/cfed676f-2469-43c0-a7fa-f04f242b9a35?lang=pt_BR
 - UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
+- Curso de Python 3 do básico ao avançado: https://www.udemy.com/certificate/UC-7d87ddba-afe2-4108-a9da-c85543898544/
+- Power BI: conhecendo o serviço: https://cursos.alura.com.br/certificate/ec0b76b5-d739-4bb1-a326-ff255cef1da6?lang=pt_BR
+- Git e GitHub: compartilhando e colaborando em projetos: https://cursos.alura.com.br/certificate/70551b6e-885c-4826-92f2-cd8d59cb7898?lang=pt_BR
+- Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/0771ddcb-099c-4564-bc34-e41afdc9333f?lang=pt_BR
+- Funções com Excel: operações matemáticas e filtros: https://cursos.alura.com.br/certificate/879fd03e-c99f-4e4a-a10d-d44d7c2facb2?lang=pt_BR
 
 </details>
 
