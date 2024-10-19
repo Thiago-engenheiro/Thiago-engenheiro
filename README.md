@@ -12,7 +12,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim (clica para expandir)</summary>
+  <summary>👨‍💻 Mais sobre mim (clique para expandir)</summary>
 
   - 💬 Ainda não fiz.
 
@@ -25,14 +25,73 @@
 
 <!-- Dropdown -->
 <details>
-  <summary> 🏆 Meus cursos e certificados (clica para expandir)</summary>
+  <summary> 🏆 Meus cursos e certificados (clique para expandir)</summary>
 
-  -  Ainda não fiz.
+  ---
+  
+ <details>
+            <summary> 🟠 HTML (clique para expandir)</summary>
+
+>
+ - vazio
+
+</details>
+
+<details>
+            <summary> 🔵 CSS (clique para expandir)</summary>
+
+>
+- Tailwind CSS: estilizando a sua página com classes utilitárias: https://cursos.alura.com.br/certificate/3c630609-260e-45ef-b51c-4bd38bfd569b?lang=pt_BR
+- SASS e CSS: estilizando um site: https://cursos.alura.com.br/certificate/3cb387ee-ecbc-473a-9c6f-7fc847c4928b?lang=pt_BR
+
+</details>
+
+<details>
+            <summary> 🟡 JavaScript (clique para expandir)</summary>
+
+>
+- vazio
+
+</details>
+
+<details>
+            <summary> 🔴 React (clique para expandir)</summary>
+
+>
+- vazio
+
+</details>
+
+<details>
+            <summary> 🟢 Banco de dados (clique para expandir)</summary>
+
+>
+- vazio
 
 </details>
 
 
+<details>
+            <summary> 🟣 frameworks (clique para expandir)</summary>
+  
+>
+- vazio
+
+</details>
+
+<details>
+            <summary> ⚪ Outras tecnologias (clique para expandir)</summary>
+            
+>
+- WordPress: crie sites com Elementor e Figma: https://cursos.alura.com.br/certificate/cfed676f-2469-43c0-a7fa-f04f242b9a35?lang=pt_BR
+- UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
+
+</details>
+
+</details>
+	
 ## 🌐 LINK 
+
 
 #### Portfolio pessoal: Sem link ainda 
 #### Curriculo em PDF: Sem link ainda 
@@ -88,7 +147,10 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ##
-![Thiago-engenheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-engenheiro&layout=compact&theme=dracula)
+![Thiago-engenheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=panda)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-engenheiro&layout=compact&theme=panda)
+
+
+
 
 ---
 <!-- Dropdown 
