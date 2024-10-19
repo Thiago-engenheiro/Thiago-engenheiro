@@ -25,6 +25,8 @@
 
     [![1](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&redirect=true)
 
+    ---
+
   </details>
 
 <!-- Dropdown -->
@@ -112,6 +114,8 @@
 </details>
 
 </details>
+
+---
 	
 ## 🌐 LINK 
 
@@ -123,6 +127,8 @@
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
 #### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
 #### WhatsApp: https://wa.me/61999887970
+
+---
 
 ## ⚙️ Tecnologias - front que eu uso no meu dia:
 
@@ -159,6 +165,8 @@
 
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 💡 Outras tecnologias que tambem tenho conhecimento:
 
