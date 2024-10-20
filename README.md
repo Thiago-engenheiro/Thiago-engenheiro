@@ -110,6 +110,7 @@
 - Git e GitHub: compartilhando e colaborando em projetos: https://cursos.alura.com.br/certificate/70551b6e-885c-4826-92f2-cd8d59cb7898?lang=pt_BR
 - Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/0771ddcb-099c-4564-bc34-e41afdc9333f?lang=pt_BR
 - Funções com Excel: operações matemáticas e filtros: https://cursos.alura.com.br/certificate/879fd03e-c99f-4e4a-a10d-d44d7c2facb2?lang=pt_BR
+- Recursos Visuais com Excel: explorando gráficos e formatos: https://cursos.alura.com.br/certificate/51090e33-7fdc-4634-859c-f119220b96d4?lang=pt_BR
 
 </details>
 
