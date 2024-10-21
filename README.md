@@ -21,7 +21,7 @@
   - 🧐 Curiosidade: apesar do nariz um pouco grande, eu não sinto cheiro das coisas kkk.
 
 	---
-    A última música que escutei foi....
+    O que estou escutando nessa exato momento e...
 
     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&redirect=true)
 
@@ -111,6 +111,7 @@
 - Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/0771ddcb-099c-4564-bc34-e41afdc9333f?lang=pt_BR
 - Funções com Excel: operações matemáticas e filtros: https://cursos.alura.com.br/certificate/879fd03e-c99f-4e4a-a10d-d44d7c2facb2?lang=pt_BR
 - Recursos Visuais com Excel: explorando gráficos e formatos: https://cursos.alura.com.br/certificate/51090e33-7fdc-4634-859c-f119220b96d4?lang=pt_BR
+- Excel: aprendendo lógica booleana e busca por valores: https://cursos.alura.com.br/certificate/fe125b6b-e046-4cf7-805b-ee2e2e0f26fd?lang=pt_BR
 
 </details>
 
