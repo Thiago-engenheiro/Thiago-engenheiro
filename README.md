@@ -70,6 +70,7 @@
 - JavaScript: consumindo e tratando dados de uma API: https://cursos.alura.com.br/certificate/c4592abe-c407-43b4-bbf0-630de1f81dc5?lang=pt_BR
 - JavaScript: construindo páginas dinâmicas: https://cursos.alura.com.br/certificate/e9e7c2d3-781d-43f6-ab6e-eac3caf05471?lang=pt_BR
 - JavaScript para Web: Crie páginas dinâmicas: https://cursos.alura.com.br/certificate/9fbf82dc-a8eb-4aa5-87f8-a888cff326be?lang=pt_BR
+- JavaScript: implementando CRUD com requisições HTTP: https://cursos.alura.com.br/certificate/523a7f89-ca14-48fe-99f2-956d87010ef8?lang=pt_BR
 
 </details>
 
