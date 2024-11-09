@@ -114,10 +114,22 @@
 - Recursos Visuais com Excel: explorando gráficos e formatos: https://cursos.alura.com.br/certificate/51090e33-7fdc-4634-859c-f119220b96d4?lang=pt_BR
 - Excel: aprendendo lógica booleana e busca por valores: https://cursos.alura.com.br/certificate/fe125b6b-e046-4cf7-805b-ee2e2e0f26fd?lang=pt_BR
 - Excel: utilizando tabelas dinâmicas e gráficos dinâmicos: https://cursos.alura.com.br/certificate/4c6748f5-62f1-4d38-bedf-de5f63d45522?lang=pt_BR
+- Canva: crie designs digitais para redes sociais: https://cursos.alura.com.br/certificate/11ad5169-b13d-4d28-aa31-cdaa9ce7f696?lang=pt_BR
+
+</details>
+
+<details>
+            <summary> 💯 Melhoria pessoal (clique para expandir)</summary>
+            
+>
+
+ - vazio
 
 </details>
 
 </details>
+
+
 
 ---
 	
