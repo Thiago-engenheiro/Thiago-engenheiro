@@ -2,11 +2,11 @@
 
 ![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art.png?raw=true)
 
-<h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end - (REACT)</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## 👤 Sobre mim
 
-##### 📝 No início da minha trajetória na faculdade, decidi buscar um estágio e encontrei uma oportunidade na área de suporte em TI. No entanto, à medida que meu estágio se aproxima do fim, percebo que meu verdadeiro interesse está na área de Front-End. Com isso, decidi redirecionar meu foco e intensificar meus estudos nessa área
+##### 📝 No início da minha trajetória na faculdade, decidi buscar um estágio e encontrei uma oportunidade na área de suporte em TI. No entanto, à medida que meu estágio se aproxima do fim, percebo que meu verdadeiro interesse está na área de Front-End. Com isso, decidi redirecionar meu foco e intensificar meus estudos nessa área, estou focando em ser  `desenvolvedor React 🚀`.
 
 ---
 
@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim (clique para expandir)</summary>
 
-  - 💬 Ainda não fiz.
+  - 💬 Prometo que logo terá algo texto legal aqui. 
 
   - 📚 Faço engenharia de software e estou no 8º semestre (pretendo fazer Pós em Front-End) e atualmente estou estudando principalmente pela plataforma da Alura.
 
