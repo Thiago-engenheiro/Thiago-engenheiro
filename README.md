@@ -115,7 +115,8 @@
 - Excel: aprendendo lógica booleana e busca por valores: https://cursos.alura.com.br/certificate/fe125b6b-e046-4cf7-805b-ee2e2e0f26fd?lang=pt_BR
 - Excel: utilizando tabelas dinâmicas e gráficos dinâmicos: https://cursos.alura.com.br/certificate/4c6748f5-62f1-4d38-bedf-de5f63d45522?lang=pt_BR
 - Canva: crie designs digitais para redes sociais: https://cursos.alura.com.br/certificate/11ad5169-b13d-4d28-aa31-cdaa9ce7f696?lang=pt_BR
-- canva: criando apresentações comerciais https://cursos.alura.com.br/certificate/523b24e6-f067-4581-a7d0-9b307c114d5b?lang=pt_BR
+- Canva: criando apresentações comerciais https://cursos.alura.com.br/certificate/523b24e6-f067-4581-a7d0-9b307c114d5b?lang=pt_BR
+- Canva: crie um e-book com apoio da Inteligência Artificial https://cursos.alura.com.br/certificate/da082124-f2f4-4e93-b987-0aa6cab5c3f9?lang=pt_BR
 
 </details>
 
