@@ -14,18 +14,45 @@
 <details>
   <summary>👨‍💻 Mais sobre mim (clique para expandir)</summary>
 
-  - 💬 Prometo que logo terá algo texto legal aqui. 
+  - 💬 Prometo que logo terá algo texto legal aqui.
+
+   ---
+
+  - 💼 (2020 --- 2024 ) Fiz dois anos de estagio em infraestutura no CGEE
+ 
+	 <details>
+	   <summary> 👀 Mais sobre o cargo (clique para expandir)</summary>
+		 
+	  <br>
+	  
+	  	- Minhas atividades realizadas durante o estagio, era o atendimento de demandas via plataforma do GLPI (central de serviço) comparável ao nível de funcionário de infraestrutura de nível 1 e 2
+	   
+	  	- Aprendizados técnicos durante o estágio:
+	   
+		    -- configuração de hardwares
+		    -- configuração de softwares
+		    -- Conhecimento técnico de operação em ambiente Microsoft Windows, Apple,  Linux
+		    -- Microsoft Office, OpenOffice
+		    -- Navegadores
+	     	    -- Excel
+	
+	
+	</details>
+
+ ---
 
   - 📚 Faço engenharia de software e estou no 8º semestre (pretendo fazer Pós em Front-End) e atualmente estou estudando principalmente pela plataforma da Alura.
 
+ ---
+
   - 🧐 Curiosidade: apesar do nariz um pouco grande, eu não sinto cheiro das coisas kkk.
 
-	---
-    O que estou escutando nessa exato momento é...
+ ---
+O que estou escutando nessa exato momento é...
 
-    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&redirect=true)
 
-    ---
+---
 
   </details>
 
