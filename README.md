@@ -117,6 +117,7 @@
 - Canva: crie designs digitais para redes sociais: https://cursos.alura.com.br/certificate/11ad5169-b13d-4d28-aa31-cdaa9ce7f696?lang=pt_BR
 - Canva: criando apresentações comerciais https://cursos.alura.com.br/certificate/523b24e6-f067-4581-a7d0-9b307c114d5b?lang=pt_BR
 - Canva: crie um e-book com apoio da Inteligência Artificial https://cursos.alura.com.br/certificate/da082124-f2f4-4e93-b987-0aa6cab5c3f9?lang=pt_BR
+- Canva: criando vídeos com motion graphics https://cursos.alura.com.br/certificate/0e5ef558-7248-4fdc-aea9-fd08528a5d45?lang=pt_BR
 
 </details>
 
