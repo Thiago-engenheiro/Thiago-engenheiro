@@ -130,24 +130,71 @@ O que estou escutando nessa exato momento é...
 
 <details>
             <summary> ⚪ Outras tecnologias (clique para expandir)</summary>
+
             
+--- 
 >
+<details>
+            <summary>  🅆 WordPress (clique para expandir)</summary>
+
 - WordPress: crie sites com Elementor e Figma: https://cursos.alura.com.br/certificate/cfed676f-2469-43c0-a7fa-f04f242b9a35?lang=pt_BR
+
+</details>
+
+<details>
+            <summary> 🖥️ UX (clique para expandir)</summary>
+
 - UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
+
+</details>
+
+<details>
+            <summary> 🐍 Python (clique para expandir)</summary>
+
 - Curso de Python 3 do básico ao avançado: https://www.udemy.com/certificate/UC-7d87ddba-afe2-4108-a9da-c85543898544/
+
+</details>
+
+<details>
+            <summary> 📊 Power BI (clique para expandir)</summary>
+
 - Power BI: conhecendo o serviço: https://cursos.alura.com.br/certificate/ec0b76b5-d739-4bb1-a326-ff255cef1da6?lang=pt_BR
+
+</details>
+
+<details>
+            <summary> 🔄 Git e GitHub (clique para expandir)</summary>
+
 - Git e GitHub: compartilhando e colaborando em projetos: https://cursos.alura.com.br/certificate/70551b6e-885c-4826-92f2-cd8d59cb7898?lang=pt_BR
+
+</details>
+
+<details>
+            <summary> 🟩 Excel (clique para expandir)</summary>
+
 - Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/0771ddcb-099c-4564-bc34-e41afdc9333f?lang=pt_BR
 - Funções com Excel: operações matemáticas e filtros: https://cursos.alura.com.br/certificate/879fd03e-c99f-4e4a-a10d-d44d7c2facb2?lang=pt_BR
 - Recursos Visuais com Excel: explorando gráficos e formatos: https://cursos.alura.com.br/certificate/51090e33-7fdc-4634-859c-f119220b96d4?lang=pt_BR
 - Excel: aprendendo lógica booleana e busca por valores: https://cursos.alura.com.br/certificate/fe125b6b-e046-4cf7-805b-ee2e2e0f26fd?lang=pt_BR
 - Excel: utilizando tabelas dinâmicas e gráficos dinâmicos: https://cursos.alura.com.br/certificate/4c6748f5-62f1-4d38-bedf-de5f63d45522?lang=pt_BR
-- Canva: crie designs digitais para redes sociais: https://cursos.alura.com.br/certificate/11ad5169-b13d-4d28-aa31-cdaa9ce7f696?lang=pt_BR
-- Canva: criando apresentações comerciais https://cursos.alura.com.br/certificate/523b24e6-f067-4581-a7d0-9b307c114d5b?lang=pt_BR
-- Canva: crie um e-book com apoio da Inteligência Artificial https://cursos.alura.com.br/certificate/da082124-f2f4-4e93-b987-0aa6cab5c3f9?lang=pt_BR
-- Canva: criando vídeos com motion graphics https://cursos.alura.com.br/certificate/0e5ef558-7248-4fdc-aea9-fd08528a5d45?lang=pt_BR
 
 </details>
+
+<details>
+            <summary> 🖌️ Canva (clique para expandir)</summary>
+
+- Canva: crie designs digitais para redes sociais: https://cursos.alura.com.br/certificate/11ad5169-b13d-4d28-aa31-cdaa9ce7f696?lang=pt_BR
+- Canva: criando apresentações comerciais: https://cursos.alura.com.br/certificate/523b24e6-f067-4581-a7d0-9b307c114d5b?lang=pt_BR
+- Canva: crie um e-book com apoio da Inteligência Artificial: https://cursos.alura.com.br/certificate/da082124-f2f4-4e93-b987-0aa6cab5c3f9?lang=pt_BR
+- Canva: criando vídeos com motion graphics: https://cursos.alura.com.br/certificate/0e5ef558-7248-4fdc-aea9-fd08528a5d45?lang=pt_BR
+- Canva: criação de portfólio, currículo e cartão pessoal: https://cursos.alura.com.br/certificate/97b5ea2b-7980-4713-8ec8-bb9fd9ecefd7?lang=pt_BR
+
+</details>
+
+
+</details>
+
+--- 
 
 <details>
             <summary> 💯 Melhoria pessoal (clique para expandir)</summary>
