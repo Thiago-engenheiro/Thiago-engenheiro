@@ -145,6 +145,7 @@ O que estou escutando nessa exato momento é...
             <summary> 🖥️ UX (clique para expandir)</summary>
 
 - UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
+- UX Design: como construir uma persona: https://cursos.alura.com.br/certificate/ec1381f5-7dd4-4361-bc96-e2290ff22508?lang=pt_BR
 
 </details>
 
@@ -272,6 +273,8 @@ O que estou escutando nessa exato momento é...
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+
 
 ##
 ![Thiago-engenheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-engenheiro&show_icons=true&theme=panda)&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-engenheiro&layout=compact&theme=panda)
