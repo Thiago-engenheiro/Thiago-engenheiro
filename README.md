@@ -146,6 +146,7 @@ O que estou escutando nessa exato momento é...
 
 - UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
 - UX Design: como construir uma persona: https://cursos.alura.com.br/certificate/ec1381f5-7dd4-4361-bc96-e2290ff22508?lang=pt_BR
+- UX Design: elaborando projetos estratégicos: https://cursos.alura.com.br/certificate/335722b7-a712-459c-8737-e07d572933b1?lang=pt_BR
 
 </details>
 
