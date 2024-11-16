@@ -104,6 +104,7 @@ O que estou escutando nessa exato momento é...
 - JavaScript para Web: Crie páginas dinâmicas: https://cursos.alura.com.br/certificate/9fbf82dc-a8eb-4aa5-87f8-a888cff326be?lang=pt_BR
 - JavaScript: implementando CRUD com requisições HTTP: https://cursos.alura.com.br/certificate/523a7f89-ca14-48fe-99f2-956d87010ef8?lang=pt_BR
 - JavaScript: criando requisições: https://cursos.alura.com.br/certificate/fa3baad8-45c1-48e1-9dfa-1273291f4f2d?lang=pt_BR
+- JavaScript: evoluindo a sua aplicação com ES6+: https://cursos.alura.com.br/certificate/9672e986-b96e-49b1-8987-193d473a96af?lang=pt_BR
 
   </details>
   
