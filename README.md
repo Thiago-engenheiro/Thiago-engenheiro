@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim (clique para expandir)</summary>
 
-  - 💬 Prometo que logo terá algo texto legal aqui.
+  - 💬 Prometo que logo terá algum texto legal aqui.
 
    ---
 
@@ -34,7 +34,7 @@
 		    -- Conhecimento técnico de operação em ambiente Microsoft Windows, Apple,  Linux
 		    -- Microsoft Office, OpenOffice
 		    -- Navegadores
-	     	    -- Excel
+	            -- Excel
 	
 	
 	</details>
@@ -61,8 +61,13 @@ O que estou escutando nessa exato momento é...
   <summary> 🏆 Meus cursos e certificados (clique para expandir)</summary>
 
   ---
-  
- <details>
+
+<details>
+	<summary> 🌐 front end  (clique para expandir)</summary>
+ <br>
+ 
+
+  <details>
             <summary> 🟠 HTML // 🔵 CSS  (clique para expandir)</summary>
 
 >
@@ -100,7 +105,9 @@ O que estou escutando nessa exato momento é...
 - JavaScript: implementando CRUD com requisições HTTP: https://cursos.alura.com.br/certificate/523a7f89-ca14-48fe-99f2-956d87010ef8?lang=pt_BR
 - JavaScript: criando requisições: https://cursos.alura.com.br/certificate/fa3baad8-45c1-48e1-9dfa-1273291f4f2d?lang=pt_BR
 
-</details>
+  </details>
+  
+
 
 <details>
             <summary> 🔴 React (clique para expandir)</summary>
@@ -128,11 +135,14 @@ O que estou escutando nessa exato momento é...
 
 </details>
 
+</details>
+
+____
+
 <details>
             <summary> ⚪ Outras tecnologias (clique para expandir)</summary>
 
             
---- 
 >
 <details>
             <summary>  🅆 WordPress (clique para expandir)</summary>
@@ -147,6 +157,7 @@ O que estou escutando nessa exato momento é...
 - UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
 - UX Design: como construir uma persona: https://cursos.alura.com.br/certificate/ec1381f5-7dd4-4361-bc96-e2290ff22508?lang=pt_BR
 - UX Design: elaborando projetos estratégicos: https://cursos.alura.com.br/certificate/335722b7-a712-459c-8737-e07d572933b1?lang=pt_BR
+- UX Design: concepção do produto pós-pesquisa: https://cursos.alura.com.br/certificate/24c84f6a-a002-47c4-aafb-4b78f214798a?lang=pt_BR
 
 </details>
 
@@ -193,6 +204,20 @@ O que estou escutando nessa exato momento é...
 
 </details>
 
+<details>
+            <summary> 🎨 Figma (clique para expandir)</summary>
+
+- vazio
+
+</details>
+
+<details>
+            <summary> 🖍️ Inkscape (clique para expandir)</summary>
+
+- vazio
+
+</details>
+
 
 </details>
 
@@ -213,7 +238,7 @@ O que estou escutando nessa exato momento é...
 
 ---
 	
-## 🌐 LINK 
+## 🔗 LINK 
 
 
 #### Portfolio pessoal: Sem link ainda 
