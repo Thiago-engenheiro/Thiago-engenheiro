@@ -230,7 +230,12 @@ ____
             
 >
 
- - vazio
+ <details>
+            <summary> 🗣️ Comunicação (clique para expandir)</summary>
+
+- Comunicação assertiva: reduzindo conflitos e frustrações: https://cursos.alura.com.br/certificate/e4026cb1-9025-4134-9d90-e24d43b7b2b4?lang=pt_BR
+
+</details>
 
 </details>
 
