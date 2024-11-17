@@ -159,6 +159,7 @@ ____
 - UX Design: como construir uma persona: https://cursos.alura.com.br/certificate/ec1381f5-7dd4-4361-bc96-e2290ff22508?lang=pt_BR
 - UX Design: elaborando projetos estratégicos: https://cursos.alura.com.br/certificate/335722b7-a712-459c-8737-e07d572933b1?lang=pt_BR
 - UX Design: concepção do produto pós-pesquisa: https://cursos.alura.com.br/certificate/24c84f6a-a002-47c4-aafb-4b78f214798a?lang=pt_BR
+- UX Design: criando um portfólio em UX: https://cursos.alura.com.br/certificate/208aafdd-e46b-4105-9d52-ccd71c74897a?lang=pt_BR
 
 </details>
 
