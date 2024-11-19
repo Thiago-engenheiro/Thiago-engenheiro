@@ -92,7 +92,6 @@ O que estou escutando nessa exato momento é...
 - Lógica de programação: praticando com desafios: https://cursos.alura.com.br/certificate/ddc9b6b3-7fc1-445e-8880-0ca71aa886db?lang=pt_BR
 - Lógica de programação: mergulhe em programação com JavaScript: https://cursos.alura.com.br/certificate/467df380-c9c0-4b41-b800-4b00fbfc91c8?lang=pt_BR
 - Lógica de programação: explore funções e listas: https://cursos.alura.com.br/certificate/21d18082-f521-4f0b-8948-e5514b673515?lang=pt_BR
-- Lógica de programação: explore funções e listas: https://cursos.alura.com.br/certificate/21d18082-f521-4f0b-8948-e5514b673515?lang=pt_BR
 - JavaScript: validações e reconhecimento de voz: https://cursos.alura.com.br/certificate/eeeb0bfe-37f9-4515-b0d0-4537a0cd7075?lang=pt_BR
 - JavaScript: métodos de array: https://cursos.alura.com.br/certificate/7e5dcdea-ee66-44cf-a552-02e95d3fb668?lang=pt_BR
 - JavaScript: manipulando elementos no DOM: https://cursos.alura.com.br/certificate/0d4c6e42-da87-4273-8769-820c9dc1b867?lang=pt_BR
