@@ -105,6 +105,7 @@ O que estou escutando nessa exato momento é...
 - JavaScript: implementando CRUD com requisições HTTP: https://cursos.alura.com.br/certificate/523a7f89-ca14-48fe-99f2-956d87010ef8?lang=pt_BR
 - JavaScript: criando requisições: https://cursos.alura.com.br/certificate/fa3baad8-45c1-48e1-9dfa-1273291f4f2d?lang=pt_BR
 - JavaScript: evoluindo a sua aplicação com ES6+: https://cursos.alura.com.br/certificate/9672e986-b96e-49b1-8987-193d473a96af?lang=pt_BR
+- Node.js e terminal: dominando o ambiente de desenvolvimento front-end: https://cursos.alura.com.br/certificate/59fa489f-39e0-485f-a82b-28f0bc414993?lang=pt_BR
 
   </details>
   
@@ -265,12 +266,12 @@ ____
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!--![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
 
 - FRAMEWORK:
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white![Git])
+<!--![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white![Git])-->
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -286,9 +287,9 @@ ____
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-- BANCO DE DADOS:
+<!--- BANCO DE DADOS:-->
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<!--!![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)-->
 
 - IDE // PLATAFORMAS:
 
