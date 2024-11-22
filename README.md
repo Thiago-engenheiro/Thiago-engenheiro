@@ -234,8 +234,9 @@ ____
             <summary> 🗣️ Comunicação (clique para expandir)</summary>
 
 >
-- Oratória: conquiste a atenção do seu público: https://cursos.alura.com.br/certificate/d6e920b3-b53a-4b4f-a25f-2a1675db193d?lang=pt_BR
 - Comunicação: como se expressar bem e ser compreendido: https://cursos.alura.com.br/certificate/f25bb25d-d01f-40cc-ac90-1f934827d8c5?lang=pt_BR
+- Oratória: conquiste a atenção do seu público: https://cursos.alura.com.br/certificate/d6e920b3-b53a-4b4f-a25f-2a1675db193d?lang=pt_BR
+- Oratória: supere desafios com confiança: https://cursos.alura.com.br/certificate/2f4349b8-5606-403b-85f7-f30c4fc0f588?lang=pt_BR
 - Comunicação assertiva: reduzindo conflitos e frustrações: https://cursos.alura.com.br/certificate/e4026cb1-9025-4134-9d90-e24d43b7b2b4?lang=pt_BR
 
 </details>
