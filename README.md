@@ -12,7 +12,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim (clique para expandir)</summary>
+  <summary>👨‍💻 Mais sobre mim  (${\color{yellow}clique\ para\ expandir}$)</summary>
 
   - 💬 Prometo que logo terá algum texto legal aqui.
 
@@ -21,7 +21,7 @@
   - 💼 (2020 --- 2024 ) Fiz dois anos de estagio em infraestutura no CGEE
  
 	 <details>
-	   <summary> 👀 Mais sobre o cargo (clique para expandir)</summary>
+	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
 		 
 	  <br>
 	  
@@ -58,17 +58,18 @@ O que estou escutando nessa exato momento é...
 
 <!-- Dropdown -->
 <details>
-  <summary> 🏆 Meus cursos e certificados (clique para expandir)</summary>
+  <summary> 🏆 Meus cursos e certificados  (${\color{yellow}clique\ para\ expandir}$)</summary>
 
   ---
 
 <details>
-	<summary> 🌐 front end  (clique para expandir)</summary>
+	<summary>🌐 front-end (${\color{yellow}clique\ para\ expandir}$)</summary> 
+ <br>
  <br>
  
 
   <details>
-            <summary> 🟠 HTML // 🔵 CSS  (clique para expandir)</summary>
+            <summary> 🟠 HTML // 🔵 CSS  (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
  - Praticando CSS: Grid e Flexbox: https://cursos.alura.com.br/certificate/2b100a07-b0dd-4846-b007-e29d40cf6736?lang=pt_BR
@@ -86,7 +87,7 @@ O que estou escutando nessa exato momento é...
 </details>
 
 <details>
-            <summary> 🟡 JavaScript (clique para expandir)</summary>
+            <summary> 🟡 JavaScript (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
 - Lógica de programação: praticando com desafios: https://cursos.alura.com.br/certificate/ddc9b6b3-7fc1-445e-8880-0ca71aa886db?lang=pt_BR
@@ -109,7 +110,7 @@ O que estou escutando nessa exato momento é...
   </details>
 
   <details>
-            <summary> 🔵 TypeScript (clique para expandir)</summary>
+            <summary> 🔵 TypeScript (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
 - vazio
@@ -120,7 +121,7 @@ O que estou escutando nessa exato momento é...
 
 
 <details>
-            <summary> 🔴 React (clique para expandir)</summary>
+            <summary> 🔴 React (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
 - vazio
@@ -128,7 +129,7 @@ O que estou escutando nessa exato momento é...
 </details>
 
 <details>
-            <summary> 🟢 Banco de dados (clique para expandir)</summary>
+            <summary> 🟢 Banco de dados (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
 - vazio
@@ -137,7 +138,7 @@ O que estou escutando nessa exato momento é...
 
 
 <details>
-            <summary> 🟣 frameworks (clique para expandir)</summary>
+            <summary> 🟣 frameworks (${\color{yellow}clique\ para\ expandir}$)</summary>
   
 >
 - Tailwind CSS: estilizando a sua página com classes utilitárias: https://cursos.alura.com.br/certificate/3c630609-260e-45ef-b51c-4bd38bfd569b?lang=pt_BR
@@ -150,19 +151,20 @@ O que estou escutando nessa exato momento é...
 ____
 
 <details>
-            <summary> ⚪ Outras tecnologias (clique para expandir)</summary>
-
+            <summary> ⚪ Outras tecnologias (${\color{yellow}clique\ para\ expandir}$)</summary>
+<br>
+<br>
             
 >
 <details>
-            <summary>  🅆 WordPress (clique para expandir)</summary>
+            <summary>  🅆 WordPress (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - WordPress: crie sites com Elementor e Figma: https://cursos.alura.com.br/certificate/cfed676f-2469-43c0-a7fa-f04f242b9a35?lang=pt_BR
 
 </details>
 
 <details>
-            <summary> 🖥️ UX (clique para expandir)</summary>
+            <summary> 🖥️ UX (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - UX: entenda a experiência de usuário: https://cursos.alura.com.br/certificate/586c73e5-5493-46bf-b189-455600b5cd88?lang=pt_BR
 - UX Design: como construir uma persona: https://cursos.alura.com.br/certificate/ec1381f5-7dd4-4361-bc96-e2290ff22508?lang=pt_BR
@@ -173,28 +175,28 @@ ____
 </details>
 
 <details>
-            <summary> 🐍 Python (clique para expandir)</summary>
+            <summary> 🐍 Python (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - Curso de Python 3 do básico ao avançado: https://www.udemy.com/certificate/UC-7d87ddba-afe2-4108-a9da-c85543898544/
 
 </details>
 
 <details>
-            <summary> 📊 Power BI (clique para expandir)</summary>
+            <summary> 📊 Power BI(${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - Power BI: conhecendo o serviço: https://cursos.alura.com.br/certificate/ec0b76b5-d739-4bb1-a326-ff255cef1da6?lang=pt_BR
 
 </details>
 
 <details>
-            <summary> 🔄 Git e GitHub (clique para expandir)</summary>
+            <summary> 🔄 Git e GitHub (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - Git e GitHub: compartilhando e colaborando em projetos: https://cursos.alura.com.br/certificate/70551b6e-885c-4826-92f2-cd8d59cb7898?lang=pt_BR
 
 </details>
 
 <details>
-            <summary> 🟩 Excel (clique para expandir)</summary>
+            <summary> 🟩 Excel (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/0771ddcb-099c-4564-bc34-e41afdc9333f?lang=pt_BR
 - Funções com Excel: operações matemáticas e filtros: https://cursos.alura.com.br/certificate/879fd03e-c99f-4e4a-a10d-d44d7c2facb2?lang=pt_BR
@@ -205,7 +207,7 @@ ____
 </details>
 
 <details>
-            <summary> 🖌️ Canva (clique para expandir)</summary>
+            <summary> 🖌️ Canva (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - Canva: crie designs digitais para redes sociais: https://cursos.alura.com.br/certificate/11ad5169-b13d-4d28-aa31-cdaa9ce7f696?lang=pt_BR
 - Canva: criando apresentações comerciais: https://cursos.alura.com.br/certificate/523b24e6-f067-4581-a7d0-9b307c114d5b?lang=pt_BR
@@ -216,14 +218,14 @@ ____
 </details>
 
 <details>
-            <summary> 🎨 Figma (clique para expandir)</summary>
+            <summary> 🎨 Figma (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - vazio
 
 </details>
 
 <details>
-            <summary> 🖍️ Inkscape (clique para expandir)</summary>
+            <summary> 🖍️ Inkscape (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 - vazio
 
@@ -235,12 +237,13 @@ ____
 --- 
 
 <details>
-            <summary> 💯 Melhoria pessoal (clique para expandir)</summary>
-            
->
+            <summary> 💯 Melhoria pessoal (${\color{yellow}clique\ para\ expandir}$)</summary>
+<br>
+<br>
+
 
  <details>
-            <summary> 🗣️ Comunicação (clique para expandir)</summary>
+            <summary> 🗣️ Comunicação (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
 - Comunicação: como se expressar bem e ser compreendido: https://cursos.alura.com.br/certificate/f25bb25d-d01f-40cc-ac90-1f934827d8c5?lang=pt_BR
@@ -254,7 +257,7 @@ ____
 </details>
 
 <details>
-            <summary> 🕒 Agilidade (clique para expandir)</summary>
+            <summary> 🕒 Agilidade (${\color{yellow}clique\ para\ expandir}$)</summary>
 >
 	
 - vazio
@@ -263,7 +266,7 @@ ____
 </details>
 
 <details>
-            <summary> 👑 Liderança (clique para expandir)</summary>
+            <summary> 👑 Liderança (${\color{yellow}clique\ para\ expandir}$)</summary>
 >
 	
 - vazio
@@ -272,7 +275,7 @@ ____
 </details>
 
 <details>
-            <summary> 😊 Habilidades e comportamento (clique para expandir)</summary>
+            <summary> 😊 Habilidades e comportamento (${\color{yellow}clique\ para\ expandir}$)</summary>
 >
 	
 - vazio
@@ -280,7 +283,7 @@ ____
 </details>
 
 <details>
-            <summary> 📈 Educação financeira (clique para expandir)</summary>
+            <summary> 📈 Educação financeira (${\color{yellow}clique\ para\ expandir}$)</summary>
 >
 	
 - vazio
