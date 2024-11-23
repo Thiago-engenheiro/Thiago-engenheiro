@@ -238,6 +238,7 @@ ____
 - Oratória: conquiste a atenção do seu público: https://cursos.alura.com.br/certificate/d6e920b3-b53a-4b4f-a25f-2a1675db193d?lang=pt_BR
 - Oratória: supere desafios com confiança: https://cursos.alura.com.br/certificate/2f4349b8-5606-403b-85f7-f30c4fc0f588?lang=pt_BR
 - Feedback efetivo: utilizando ferramentas para comunicação transformadora: https://cursos.alura.com.br/certificate/32085569-9468-45ad-9a76-23165b27687c?lang=pt_BR
+- Comunicação não violenta: consciência para agir: https://cursos.alura.com.br/certificate/e02cfe10-d704-4ec7-82b1-fe714332923f?lang=pt_BR
 - Comunicação assertiva: reduzindo conflitos e frustrações: https://cursos.alura.com.br/certificate/e4026cb1-9025-4134-9d90-e24d43b7b2b4?lang=pt_BR
 
 </details>
