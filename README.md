@@ -263,6 +263,12 @@ ____
 </details>
 
 <details>
+            <summary> 😊 Habilidades e comportamento (clique para expandir)</summary>
+>
+	
+- vazio
+
+<details>
             <summary> 📈 Educação financeira (clique para expandir)</summary>
 >
 	
