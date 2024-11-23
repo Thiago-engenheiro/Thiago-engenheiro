@@ -107,6 +107,15 @@ O que estou escutando nessa exato momento é...
 - Node.js e terminal: dominando o ambiente de desenvolvimento front-end: https://cursos.alura.com.br/certificate/59fa489f-39e0-485f-a82b-28f0bc414993?lang=pt_BR
 
   </details>
+
+  <details>
+            <summary> 🔵 TypeScript (clique para expandir)</summary>
+
+>
+- vazio
+  </details>
+
+
   
 
 
