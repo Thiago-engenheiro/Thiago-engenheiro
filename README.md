@@ -124,8 +124,8 @@ O que estou escutando nessa exato momento é...
             <summary> 🔴 React (${\color{yellow}clique\ para\ expandir}$)</summary>
 
 >
-- vazio
-
+-  React: desenvolvendo com JavaScript: https://cursos.alura.com.br/certificate/e8a73a46-0414-4811-ba99-7a75d51b7cdd?lang=pt_BR
+  
 </details>
 
 <details>
@@ -260,8 +260,7 @@ ____
 
 <details>
             <summary> 🕒 Agilidade (${\color{yellow}clique\ para\ expandir}$)</summary>
->
-	
+>	
 - vazio
 
  
@@ -269,8 +268,7 @@ ____
 
 <details>
             <summary> 👑 Liderança (${\color{yellow}clique\ para\ expandir}$)</summary>
->
-	
+>	
 - vazio
 
  
@@ -279,15 +277,13 @@ ____
 <details>
             <summary> 😊 Habilidades e comportamento (${\color{yellow}clique\ para\ expandir}$)</summary>
 >
-	
 - Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los: https://cursos.alura.com.br/certificate/29801d2a-79d9-4d7e-8731-2358e9053a97?lang=pt_BR
 
 </details>
 
 <details>
             <summary> 📈 Educação financeira (${\color{yellow}clique\ para\ expandir}$)</summary>
->
-	
+>	
 - vazio
 
  
