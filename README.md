@@ -254,6 +254,8 @@ ____
 - Comunicação não violenta parte 2: mantendo a empatia: https://cursos.alura.com.br/certificate/a5712bc2-a9e4-44e0-b92d-fe719de8c14d?lang=pt_BR
 - Comunicação assertiva: reduzindo conflitos e frustrações: https://cursos.alura.com.br/certificate/e4026cb1-9025-4134-9d90-e24d43b7b2b4?lang=pt_BR
 
+- Negociação parte 1: práticas essenciais: https://cursos.alura.com.br/certificate/39367777-902f-4e52-96ce-8711e3a57c2e?lang=pt_BR
+
 </details>
 
 <details>
@@ -278,7 +280,7 @@ ____
             <summary> 😊 Habilidades e comportamento (${\color{yellow}clique\ para\ expandir}$)</summary>
 >
 	
-- vazio
+- Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los: https://cursos.alura.com.br/certificate/29801d2a-79d9-4d7e-8731-2358e9053a97?lang=pt_BR
 
 </details>
 
