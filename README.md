@@ -255,11 +255,13 @@ ____
 - Comunicação assertiva: reduzindo conflitos e frustrações: https://cursos.alura.com.br/certificate/e4026cb1-9025-4134-9d90-e24d43b7b2b4?lang=pt_BR
 
 - Negociação parte 1: práticas essenciais: https://cursos.alura.com.br/certificate/39367777-902f-4e52-96ce-8711e3a57c2e?lang=pt_BR
+- Negociação parte 2: técnicas avançadas: https://cursos.alura.com.br/certificate/16fe6243-08e9-4050-94e8-a64f45095bac?lang=pt_BR
 
 </details>
 
 <details>
             <summary> 🕒 Agilidade (${\color{yellow}clique\ para\ expandir}$)</summary>
+	
 >	
 - vazio
 
@@ -268,6 +270,7 @@ ____
 
 <details>
             <summary> 👑 Liderança (${\color{yellow}clique\ para\ expandir}$)</summary>
+	
 >	
 - vazio
 
@@ -276,13 +279,16 @@ ____
 
 <details>
             <summary> 😊 Habilidades e comportamento (${\color{yellow}clique\ para\ expandir}$)</summary>
+	
 >
 - Pontos fortes parte 1: descubra os seus e aprenda a gerenciá-los: https://cursos.alura.com.br/certificate/29801d2a-79d9-4d7e-8731-2358e9053a97?lang=pt_BR
+- Pontos fortes parte 2: habilidades e competências: https://cursos.alura.com.br/certificate/20a54ca6-2a2f-4de0-9548-240ad14d6a10?lang=pt_BR
 
 </details>
 
 <details>
             <summary> 📈 Educação financeira (${\color{yellow}clique\ para\ expandir}$)</summary>
+	
 >	
 - vazio
 
