@@ -297,6 +297,25 @@ ____
 
 </details>
 
+____
+
+<details>
+            <summary> ◻️ formaçãoes (${\color{yellow}clique\ para\ expandir}$)</summary>
+<br>
+        
+>
+- Negociação: https://cursos.alura.com.br/degree/certificate/ad25718d-1c4f-47bf-a3d4-c25be335003b?lang=pt_BR
+- Comunicação: https://cursos.alura.com.br/degree/certificate/b970c3a9-caca-4588-869c-06244e6ed8f3?lang=pt_BR
+- Desenvolvimento Front-end: cursos para criar aplicações web com HTML, CSS e JavaScript: https://cursos.alura.com.br/degree/certificate/dc86511a-d548-4c94-899c-d74c7e95d8b0?lang=pt_BR
+- UX Design: https://cursos.alura.com.br/degree/certificate/4714661a-f1e9-4813-9039-1f4ab95f3629?lang=pt_BR
+- Canva: https://cursos.alura.com.br/degree/certificate/0cba87c6-c4b2-4abc-ba07-07b6a3bc3b39?lang=pt_BR
+- Excel: https://cursos.alura.com.br/degree/certificate/da6454d2-e9f1-434d-9319-c9c37927805c?lang=pt_BR
+- A partir do zero: iniciante em programação: https://cursos.alura.com.br/degree/certificate/0b7b199f-aeb9-4e32-9eba-dc62bd794b15?lang=pt_BR
+- CSS: aprofunde em estilos: https://cursos.alura.com.br/degree/certificate/b9ec62d3-3474-4fcd-8380-788149de214c?lang=pt_BR
+- A partir do zero: HTML e CSS para projetos web: https://cursos.alura.com.br/degree/certificate/9fc9752e-39c6-4ea5-8b75-4ba1ffd2e52e?lang=pt_BR
+  
+</details>
+
 </details>
 
 
