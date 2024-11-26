@@ -328,7 +328,7 @@ ____
 
 
 #### Portfolio pessoal: Sem link ainda 
-#### Curriculo em PDF: https://www.canva.com/design/DAFryksevHQ/YWUvHHp96fLt6lw89A1LEQ/view?utm_content=DAFryksevHQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+#### Curriculo em PDF: https://www.canva.com/design/DAGXm9wo_r4/-yGSvUtqewqypJ5IWnCGpg/view?utm_content=DAGXm9wo_r4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 #### Diploma de graduação: Sem link ainda 
 #### Diploma de pós-graduação: Sem link ainda 
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
