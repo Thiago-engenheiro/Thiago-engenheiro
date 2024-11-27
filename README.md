@@ -125,6 +125,7 @@ O que estou escutando nessa exato momento é...
 
 >
 -  React: desenvolvendo com JavaScript: https://cursos.alura.com.br/certificate/e8a73a46-0414-4811-ba99-7a75d51b7cdd?lang=pt_BR
+-  React: como os componentes funcionam: https://cursos.alura.com.br/certificate/cb4e19b4-442b-4547-9423-130df14ec3bd?lang=pt_BR
   
 </details>
 
