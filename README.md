@@ -285,6 +285,7 @@ ____
 - Pontos fortes parte 2: habilidades e competências: https://cursos.alura.com.br/certificate/20a54ca6-2a2f-4de0-9548-240ad14d6a10?lang=pt_BR
 - Estresse parte 1: buscando qualidade de vida: https://cursos.alura.com.br/certificate/9aaf8259-5a9c-42f7-bd23-de9b482a4259?lang=pt_BR
 - Eficácia parte 1: hábitos para sua proatividade: https://cursos.alura.com.br/certificate/cc744427-cdc8-4086-b3eb-bde9dde642ab?lang=pt_BR
+- Estresse parte 2: equilibre seu estilo de vida: https://cursos.alura.com.br/certificate/fa34086e-b519-4bbf-9837-d47e9c76c867?lang=pt_BR
 
 </details>
 
