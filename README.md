@@ -76,7 +76,7 @@ O que estou escutando nessa exato momento é...
  - HTML e CSS: trabalhando com responsividade e publicação de projetos: https://cursos.alura.com.br/certificate/b6cec22b-fb52-4adf-b5ff-7e4bdd02bfa7?lang=pt_BR
  - HTML e CSS: responsividade com mobile-first: https://cursos.alura.com.br/certificate/58a38997-f681-4e32-a564-fcea74c3cc05?lang=pt_BR
  - HTML e CSS: praticando HTML/CSS: https://cursos.alura.com.br/certificate/fb0878d8-dd61-457d-992e-91fb0fea1418?lang=pt_BR
- - HTML e CSS: Classes, posicionamento e Flexbox: https://cursos.alura.com.br/certificate/14a57e0e-9040-43c9-a770-5cd11c6ebd14?lang=pt_BR
+ - HTML e CSS: Classes, posicionamento e Flexbox: https://cursos.alura.com.br/certificate/cfb5dbf4-977a-483b-9f9f-6eab40a4d8fa?lang=pt_BR
  - HTML e CSS: cabeçalho, footer e variáveis CSS: https://cursos.alura.com.br/certificate/f08f4f25-c548-45cd-b46e-0b156e357059?lang=pt_BR
  - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags: https://cursos.alura.com.br/certificate/f08f4f25-c548-45cd-b46e-0b156e357059?lang=pt_BR
  - CSS: Flexbox e layouts responsivos: https://cursos.alura.com.br/certificate/775f5945-e037-4b6c-92c0-1848b9270962?lang=pt_BR
