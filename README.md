@@ -273,7 +273,7 @@ ____
             <summary> 👑 Liderança (${\color{yellow}clique\ para\ expandir}$)</summary>
 	
 >	
-- vazio
+- Autoliderança: planejando o desenvolvimento pessoal: https://cursos.alura.com.br/certificate/ce01e101-4f3f-4a83-a9c7-261a0c000b75?lang=pt_BR
 
  
 </details>
