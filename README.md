@@ -274,6 +274,7 @@ ____
 	
 >	
 - Autoliderança: planejando o desenvolvimento pessoal: https://cursos.alura.com.br/certificate/ce01e101-4f3f-4a83-a9c7-261a0c000b75?lang=pt_BR
+- Produtividade: construindo hábitos e práticas: https://cursos.alura.com.br/certificate/2c0953bf-46b4-4dc0-b95a-ac97204343cf?lang=pt_BR
 
  
 </details>
