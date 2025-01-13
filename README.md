@@ -126,6 +126,7 @@ O que estou escutando nessa exato momento é...
 >
 -  React: desenvolvendo com JavaScript: https://cursos.alura.com.br/certificate/e8a73a46-0414-4811-ba99-7a75d51b7cdd?lang=pt_BR
 -  React: como os componentes funcionam: https://cursos.alura.com.br/certificate/cb4e19b4-442b-4547-9423-130df14ec3bd?lang=pt_BR
+-  React: desenvolvendo em React Router com JavaScript: https://cursos.alura.com.br/certificate/3f672f8f-324c-43e7-b2d5-afb4da237e62?lang=pt_BR
   
 </details>
 
@@ -276,6 +277,7 @@ ____
 - Autoliderança: planejando o desenvolvimento pessoal: https://cursos.alura.com.br/certificate/ce01e101-4f3f-4a83-a9c7-261a0c000b75?lang=pt_BR
 - Produtividade: construindo hábitos e práticas: https://cursos.alura.com.br/certificate/2c0953bf-46b4-4dc0-b95a-ac97204343cf?lang=pt_BR
 - Foco: trazendo mais resultados para o dia a dia: https://cursos.alura.com.br/certificate/0f1cbdb9-b272-40bc-bc0b-3b794cfe4571?lang=pt_BR
+- 
 
  
 </details>
@@ -289,6 +291,7 @@ ____
 - Estresse parte 1: buscando qualidade de vida: https://cursos.alura.com.br/certificate/9aaf8259-5a9c-42f7-bd23-de9b482a4259?lang=pt_BR
 - Eficácia parte 1: hábitos para sua proatividade: https://cursos.alura.com.br/certificate/cc744427-cdc8-4086-b3eb-bde9dde642ab?lang=pt_BR
 - Estresse parte 2: equilibre seu estilo de vida: https://cursos.alura.com.br/certificate/fa34086e-b519-4bbf-9837-d47e9c76c867?lang=pt_BR
+- Gestão comportamental: potencializando a autoliderança: https://cursos.alura.com.br/certificate/36c2fa4a-ccd4-4621-9c3e-2f06e72db8b2?lang=pt_BR
 
 </details>
 
@@ -319,6 +322,7 @@ ____
 - A partir do zero: iniciante em programação: https://cursos.alura.com.br/degree/certificate/0b7b199f-aeb9-4e32-9eba-dc62bd794b15?lang=pt_BR
 - CSS: aprofunde em estilos: https://cursos.alura.com.br/degree/certificate/b9ec62d3-3474-4fcd-8380-788149de214c?lang=pt_BR
 - A partir do zero: HTML e CSS para projetos web: https://cursos.alura.com.br/degree/certificate/9fc9752e-39c6-4ea5-8b75-4ba1ffd2e52e?lang=pt_BR
+- Autoliderança: https://cursos.alura.com.br/degree/certificate/634bd9c8-c564-45f7-926d-a423e7c48d0b?lang=pt_BR
   
 </details>
 
