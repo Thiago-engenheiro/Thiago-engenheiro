@@ -13,12 +13,14 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim  (${\color{yellow}clique\ para\ expandir}$)</summary>
-
-  - 💬 Prometo que logo terá algum texto legal aqui.
+<br>
+  - 💬 Sou engenheiro de software formado pela Universidade Católica de Brasília, com 25 anos de idade. Atualmente, estou me especializando em Front-End por meio de uma pós-graduação, além de complementar meus estudos com cursos na plataforma Alura. Tenho experiência de dois anos como estagiário no CGEE, onde atuei na área de infraestrutura, e atualmente trabalho como freelancer, como desenvolvedor front end
 
    ---
-
-  - 💼 (2020 --- 2024 ) Fiz dois anos de estagio em infraestutura no CGEE
+<details>
+	<summary> 💼 Carreira  (${\color{yellow}clique\ para\ expandir}$)</summary>
+<br>
+  -  (2020 --- 2024 ) Fiz dois anos de estagio em infraestutura no CGEE
  
 	 <details>
 	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
@@ -38,16 +40,20 @@
 	
 	
 	</details>
+ 
+  -  (2024 --- 2025 ) Após concluir meu estágio e redirecionar meu foco para os estudos em Front-End, comecei a atuar como freelancer. Desenvolvi alguns projetos para pequenos negócios da minha cidade.
+ </details>
+
+ ---
+<details>
+  <summary> 📚 Estudos  (${\color{yellow}clique\ para\ expandir}$)</summary>
+  <br>
+  -  Fiz engenharia de software e finalizei curso ao final de 2024 (pretendo fazer Pós em Front-End) e atualmente estou estudando principalmente pela plataforma da Alura.
+</details>
 
  ---
 
-  - 📚 Faço engenharia de software e estou no 8º semestre (pretendo fazer Pós em Front-End) e atualmente estou estudando principalmente pela plataforma da Alura.
 
- ---
-
-  - 🧐 Curiosidade: apesar do nariz um pouco grande, eu não sinto cheiro das coisas kkk.
-
- ---
 O que estou escutando nessa exato momento é...
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uktwvxmbw5kdm54j5z3ldqpcta&redirect=true)
