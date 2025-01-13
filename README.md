@@ -344,7 +344,6 @@ ____
 #### Portfolio pessoal: https://portfoliothiithiii.vercel.app
 #### Curriculo em PDF: https://www.canva.com/design/DAGXm9wo_r4/-yGSvUtqewqypJ5IWnCGpg/view?utm_content=DAGXm9wo_r4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 #### Diploma de graduação: Sem link ainda 
-#### Diploma de pós-graduação: Sem link ainda 
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
 #### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
 #### WhatsApp: https://wa.me/61999887970
