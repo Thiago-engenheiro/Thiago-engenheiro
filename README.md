@@ -14,20 +14,43 @@
 <details>
   <summary>👨‍💻 Mais sobre mim  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
-  - 💬 Sou engenheiro de software formado pela Universidade Católica de Brasília, com 25 anos de idade. Atualmente, estou me especializando em Front-End por meio de uma pós-graduação, além de complementar meus estudos com cursos na plataforma Alura. Tenho experiência de dois anos como estagiário no CGEE, onde atuei na área de infraestrutura, e atualmente trabalho como freelancer, como desenvolvedor front end
+  - 💬 Sou engenheiro de software formado pela Universidade Católica de Brasília, com 25 anos de idade. Atualmente, estou me especializando em Front-End por meio de uma pós-graduação, além de complementar meus estudos com cursos na plataforma Alura. Tenho experiência de dois anos como estagiário no CGEE, onde atuei na área de infraestrutura, Recentemente, concluí minha graduação e finalizei meu segundo estágio, desta vez como desenvolvedor web e atualmente trabalho como freelancer, como desenvolvedor front end
 
    ---
 <details>
 	<summary> 💼 Carreira  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
-  -  (2020 --- 2024 ) Fiz dois anos de estagio em infraestutura no CGEE
+	
+-  (2024 --- 2025 ) Após concluir minha graduação e o estágio na Registrocom decidir redirecionar meu foco para os estudos em Front-End, comecei a atuar como freelancer. Desenvolvi alguns projetos para pequenos negócios da minha cidade.
+
+-  (2023 --- 2024 ) Ao concluir meu estágio no CGEE, tive a oportunidade de atuar como auxiliar temporário na área de desenvolvimento web na RegistroCom. Foi durante essa experiência que me descobri profissionalmente e percebi que o desenvolvimento front era a área em que gostaria de me especializar
+	 <details>
+	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
+		 
+	  <br>
+	  
+	  	- Minhas atividades realizadas durante o estagio, era auxiliar em algumas tarefas de design e layout do site da  RegistroCom, principalmente focado no aprendizado 
+	   
+	  	- Aprendizados técnicos durante o estágio:
+	   
+		    -- HTML
+		    -- CSS
+		    -- JavaScript
+		    -- Boas praticas de programção
+		    -- Github
+	            -- Kanban
+	
+	
+	</details>
+ 
+-  (2020 --- 2022 ) No 2º semestre da minha faculdade, tive a oportunidade de realizar dois anos de estágio em infraestrutura no CGEE (Centro de Gestão e Estudos Estratégicos). Minhas atividades durante o estágio incluíam o atendimento de demandas via plataforma GLPI (Central de Serviços), com responsabilidades comparáveis às de um profissional de infraestrutura de níveis 1 e 2.
  
 	 <details>
 	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
 		 
 	  <br>
 	  
-	  	- Minhas atividades realizadas durante o estagio, era o atendimento de demandas via plataforma do GLPI (central de serviço) comparável ao nível de funcionário de infraestrutura de nível 1 e 2
+	  	- No 2º semestre da minha faculdade, tive a oportunidade de realizar dois anos de estágio em infraestrutura no CGEE (Centro de Gestão e Estudos Estratégicos). Minhas atividades durante o estágio incluíam o atendimento de demandas via plataforma GLPI (Central de Serviços), com responsabilidades comparáveis às de um profissional de infraestrutura de níveis 1 e 2.
 	   
 	  	- Aprendizados técnicos durante o estágio:
 	   
@@ -37,21 +60,28 @@
 		    -- Microsoft Office, OpenOffice
 		    -- Navegadores
 	            -- Excel
-	
-	
+   
+  		- Conquista:
+   
+  		    -- Automatizei a planilha de TI, permitindo o autocadastro de patrimônios, equipamentos e o controle de seu fluxo.
+	 
 	</details>
  
-  -  (2024 --- 2025 ) Após concluir meu estágio e redirecionar meu foco para os estudos em Front-End, comecei a atuar como freelancer. Desenvolvi alguns projetos para pequenos negócios da minha cidade.
  </details>
 
  ---
 <details>
   <summary> 📚 Estudos  (${\color{yellow}clique\ para\ expandir}$)</summary>
   <br>
-  -  Fiz engenharia de software e finalizei curso ao final de 2024 (pretendo fazer Pós em Front-End) e atualmente estou estudando principalmente pela plataforma da Alura.
-</details>
 
- ---
+-  (2025 --- 2026 ) Minha futura pós-graduação será realizada na FIAP, uma renomada faculdade em São Paulo, onde escolhi cursar Engenharia de Front-End. A decisão foi influenciada pela parceria da FIAP com a Alura, plataforma da qual já sou estudante, e pelas excelentes recomendações que a instituição recebe. A FIAP foi escolhida tanto pela ampla grade curricular quanto pelas avaliações positivas de seus alunos, que a consideram uma das melhores faculdades do Brasil.
+
+-  (2023 --- Atualmente ) A Alura tem sido minha principal fonte de conhecimento para a área de Front-End, além de outras áreas como acessibilidade, comunicação e UX Design, etc.. Ela foi o "episódio" piloto para a minha entrada na área de programação. Graças a ela, adquiri os conhecimentos necessários para colocar este site e todos os meus projetos no ar.
+ 
+-  (2020 --- 2022 ) Universidade catolica de Brasília, Lá aprendi uma ampla gama de tópicos essenciais para compreender tanto a teoria quanto os aspectos práticos da computação. Isso inclui fundamentos de programação, arquitetura de computadores, sistemas operacionais, bancos de dados, engenharia de software, resolução de problemas, além de habilidades interpessoais como colaboração e comunicação
+
+  ---
+ </details>
 
 
 O que estou escutando nessa exato momento é...
