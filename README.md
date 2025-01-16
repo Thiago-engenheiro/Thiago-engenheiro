@@ -364,19 +364,16 @@ ____
 
 </details>
 
-
-
 ---
 	
 ## 🔗 LINK 
 
-
 #### Portfolio pessoal: https://portfoliothiithiii.vercel.app
-#### Curriculo em PDF: https://www.canva.com/design/DAGXm9wo_r4/-yGSvUtqewqypJ5IWnCGpg/view?utm_content=DAGXm9wo_r4&utm_campaign=designshare&utm_medium=link&utm_source=editor
+#### Curriculo no canva: https://www.canva.com/design/DAFryksevHQ/ZRkkCFz9hcKMg6zyWwp0cw/edit
 #### Diploma de graduação: Sem link ainda 
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
 #### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
-#### WhatsApp: https://wa.me/61999887970
+#### WhatsApp: https://wa.me/61993156654
 
 ---
 
@@ -387,7 +384,7 @@ ____
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!--![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
+![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - FRAMEWORK // BIBLIOTECA:
   
