@@ -405,9 +405,9 @@ ____
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<!--- BANCO DE DADOS:-->
+- BANCO DE DADOS:
 
-<!--!![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)-->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 - IDE // PLATAFORMAS:
 
