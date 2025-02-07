@@ -14,14 +14,14 @@
 <details>
   <summary>👨‍💻 Mais sobre mim  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
-  - 💬 Sou engenheiro de software formado pela Universidade Católica de Brasília, com 25 anos de idade. Atualmente, estou me especializando em Front-End por meio de uma pós-graduação, além de complementar meus estudos com cursos na plataforma Alura. Tenho experiência de dois anos como estagiário no CGEE, onde atuei na área de infraestrutura, Recentemente, concluí minha graduação e finalizei meu segundo estágio, desta vez como desenvolvedor web e atualmente trabalho como freelancer, como desenvolvedor front end
+  - 💬 Sou engenheiro de software formado pela Universidade Católica de Brasília, com 25 anos de idade. Atualmente, estou me especializando em Front-End por meio de uma pós-graduação, além de complementar meus estudos com cursos na plataforma Alura. Tenho experiência de dois anos como estagiário no CGEE, onde atuei na área de infraestrutura, e mais um ano de estagio na Registrocom, Recentemente, concluí minha graduação e fui contratado , desta vez como desenvolvedor web e atualmente trabalho como freelancer nas horas extras
 
    ---
 <details>
 	<summary> 💼 Carreira  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
 	
--  (2024 --- 2025 ) Após concluir minha graduação e o estágio na Registrocom decidir redirecionar meu foco para os estudos em Front-End, comecei a atuar como freelancer. Desenvolvi alguns projetos para pequenos negócios da minha cidade.
+-  (2024 --- 2025 ) Após concluir minha graduação e ser contratado na Registrocom decidir redirecionar meu foco para os estudos em Front-End, comecei a atuar como freelancer. Desenvolvi alguns projetos para pequenos negócios da minha cidade.
 
 -  (2023 --- 2024 ) Ao concluir meu estágio no CGEE, tive a oportunidade de atuar como auxiliar temporário na área de desenvolvimento web na RegistroCom. Foi durante essa experiência que me descobri profissionalmente e percebi que o desenvolvimento front era a área em que gostaria de me especializar
 	 <details>
