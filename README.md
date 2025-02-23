@@ -14,16 +14,16 @@
 <details>
   <summary>👨‍💻 Mais sobre mim  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
-  - 💬 Sou engenheiro de software formado pela Universidade Católica de Brasília, com 25 anos de idade. Atualmente, estou me especializando em Front-End por meio de uma pós-graduação, além de complementar meus estudos com cursos na plataforma Alura. Tenho experiência de dois anos como estagiário no CGEE, onde atuei na área de infraestrutura, e mais um ano de estagio na Registrocom, Recentemente, concluí minha graduação e fui contratado , desta vez como desenvolvedor web e atualmente trabalho como freelancer nas horas extras
+  - 💬 
 
    ---
 <details>
 	<summary> 💼 Carreira  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
 	
--  (2024 --- 2025 ) Após concluir minha graduação e ser contratado na Registrocom decidir redirecionar meu foco para os estudos em Front-End, comecei a atuar como freelancer. Desenvolvi alguns projetos para pequenos negócios da minha cidade.
+-  (2024 --- Atual ) Além do estágio, trabalho como freelancer nas horas extras, desenvolvendo projetos para pequenos negócios da minha cidade. Meu foco vai desde a criação de sites, como landing pages e e-commerces para vendas de produtos, até o design de materiais gráficos, incluindo banners, infográficos e logotipos.
 
--  (2023 --- 2024 ) Ao concluir meu estágio no CGEE, tive a oportunidade de atuar como auxiliar temporário na área de desenvolvimento web na RegistroCom. Foi durante essa experiência que me descobri profissionalmente e percebi que o desenvolvimento front era a área em que gostaria de me especializar
+-  (2024 --- Atual ) Meu estagio atual na RegistroCom trabalho como auxiliar de Desenvolvimento Web, onde sou responsável pela manutenção contínua do site institucional, além de trabalhar em melhorias na interface e na experiência do usuário.
 	 <details>
 	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
 		 
@@ -36,6 +36,8 @@
 		    -- HTML
 		    -- CSS
 		    -- JavaScript
+  		    -- React
+   		    -- Tailwind
 		    -- Boas praticas de programção
 		    -- Github
 	            -- Kanban
@@ -43,7 +45,7 @@
 	
 	</details>
  
--  (2020 --- 2022 ) No 2º semestre da minha faculdade, tive a oportunidade de realizar dois anos de estágio em infraestrutura no CGEE (Centro de Gestão e Estudos Estratégicos). Minhas atividades durante o estágio incluíam o atendimento de demandas via plataforma GLPI (Central de Serviços), com responsabilidades comparáveis às de um profissional de infraestrutura de níveis 1 e 2.
+-  (2022 --- 2024 ) Tive a oportunidade de realizar dois anos de estágio em infraestrutura no CGEE (Centro de Gestão e Estudos Estratégicos). Minhas atividades durante o estágio incluíam o atendimento de demandas via plataforma GLPI (Central de Serviços), com responsabilidades comparáveis às de um profissional de infraestrutura de níveis 1 e 2.
  
 	 <details>
 	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
@@ -74,8 +76,8 @@
   <summary> 📚 Estudos  (${\color{yellow}clique\ para\ expandir}$)</summary>
   <br>
 
--  (2025 --- 2026 ) Minha futura pós-graduação será realizada na FIAP, uma renomada faculdade em São Paulo, onde escolhi cursar Engenharia de Front-End. A decisão foi influenciada pela parceria da FIAP com a Alura, plataforma da qual já sou estudante, e pelas excelentes recomendações que a instituição recebe. A FIAP foi escolhida tanto pela ampla grade curricular quanto pelas avaliações positivas de seus alunos, que a consideram uma das melhores faculdades do Brasil.
-
+-  (2025 --- 2027 ) "Minha futura pós-graduação será realizada na Gran Concurso, uma instituição renomada em Brasília, onde escolhi o curso de Desenvolvedor Full Stack. A decisão foi motivada pela plataforma da faculdade, que admiro muito, além das excelentes recomendações que a instituição recebe
+  
 -  (2023 --- Atualmente ) A Alura tem sido minha principal fonte de conhecimento para a área de Front-End, além de outras áreas como acessibilidade, comunicação e UX Design, etc.. Ela foi o "episódio" piloto para a minha entrada na área de programação. Graças a ela, adquiri os conhecimentos necessários para colocar este site e todos os meus projetos no ar.
  
 -  (2020 --- 2022 ) Universidade catolica de Brasília, Lá aprendi uma ampla gama de tópicos essenciais para compreender tanto a teoria quanto os aspectos práticos da computação. Isso inclui fundamentos de programação, arquitetura de computadores, sistemas operacionais, bancos de dados, engenharia de software, resolução de problemas, além de habilidades interpessoais como colaboração e comunicação
