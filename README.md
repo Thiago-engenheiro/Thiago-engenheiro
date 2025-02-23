@@ -76,7 +76,7 @@
   <summary> 📚 Estudos  (${\color{yellow}clique\ para\ expandir}$)</summary>
   <br>
 
--  (2025 --- 2027 ) "Minha futura pós-graduação será realizada na Gran Concurso, uma instituição renomada em Brasília, onde escolhi o curso de Desenvolvedor Full Stack. A decisão foi motivada pela plataforma da faculdade, que admiro muito, além das excelentes recomendações que a instituição recebe
+-  (2025 --- 2027 ) Minha futura pós-graduação será realizada na Gran Concurso, uma instituição renomada em Brasília, onde escolhi o curso de Desenvolvedor Full Stack. A decisão foi motivada pela plataforma da faculdade, que admiro muito, além das excelentes recomendações que a instituição recebe
   
 -  (2023 --- Atualmente ) A Alura tem sido minha principal fonte de conhecimento para a área de Front-End, além de outras áreas como acessibilidade, comunicação e UX Design, etc.. Ela foi o "episódio" piloto para a minha entrada na área de programação. Graças a ela, adquiri os conhecimentos necessários para colocar este site e todos os meus projetos no ar.
  
