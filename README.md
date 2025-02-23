@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim  (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
-  - 💬 
+  - 💬 Sou profissional formado em Engenharia de Software e atuo como desenvolvedor Front-End, criando interfaces para web e desktop. Tenho experiência com React, Vue.js e outras tecnologias do ecossistema JavaScript, além de conhecimento em UX/UI e design gráfico,Já trabalhei com Git-Based CMS também, com integração com bancos de dados  
 
    ---
 <details>
