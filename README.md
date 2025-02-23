@@ -347,7 +347,7 @@ ____
 ____
 
 <details>
-            <summary> ◻️ formaçãoes (${\color{yellow}clique\ para\ expandir}$)</summary>
+            <summary> ◻️ formações (${\color{yellow}clique\ para\ expandir}$)</summary>
 <br>
         
 >
