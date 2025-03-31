@@ -374,7 +374,7 @@ ____
 #### Curriculo no canva: https://www.canva.com/design/DAFryksevHQ/ZRkkCFz9hcKMg6zyWwp0cw/edit
 #### Diploma de graduação: Sem link ainda 
 #### Mail: thiago.principal11@outlook.com.br  /// Mail-02: thiago.principal11@gmail.com
-#### Linkedin: https://www.linkedin.com/in/thiago-abraao-b5a30822b/
+#### Linkedin: www.linkedin.com/in/thiithiii
 #### WhatsApp: https://wa.me/61993156654
 
 ---
