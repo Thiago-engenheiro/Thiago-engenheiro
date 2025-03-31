@@ -2,11 +2,11 @@
 
 ![image](https://github.com/Thiago-engenheiro/Thiago-engenheiro/blob/main/Imagens/Blue%20Modern%20Illustrative%20Gaming%20Influencer%20YouTube%20Channel%20Art.png?raw=true)
 
-<h1>Sou engenheiro de software, trabalho com <span style="color: pink;">front end - (REACT)</span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Sou engenheiro de software, trabalho com <span style="color: pink;"> desenvolvimento </span>&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## 👤 Sobre mim
 
-##### 📝 No início da minha trajetória na faculdade, decidi buscar um estágio e encontrei uma oportunidade na área de suporte em TI. No entanto, à medida que meu estágio se aproxima do fim, percebo que meu verdadeiro interesse está na área de Front-End. Com isso, decidi redirecionar meu foco e intensificar meus estudos nessa área, estou focando em ser  `desenvolvedor React 🚀`.
+##### 📝 No início da minha trajetória na faculdade, decidi buscar um estágio e encontrei uma oportunidade na área de suporte em TI. No entanto, à medida que meu estágio se aproxima do fim, percebo que meu verdadeiro interesse está na área de Front-End. Com isso, decidi redirecionar meu foco e intensificar meus estudos nessa área, estou focando em ser `desenvolvedor 🚀`.
 
 ---
 
@@ -23,7 +23,7 @@
 	
 -  (2024 --- Atual ) Além do estágio, trabalho como freelancer nas horas extras, desenvolvendo projetos para pequenos negócios da minha cidade. Meu foco vai desde a criação de sites, como landing pages e e-commerces para vendas de produtos, até o design de materiais gráficos, incluindo banners, infográficos e logotipos.
 
--  (2024 --- Atual ) Meu estagio atual na RegistroCom trabalho como auxiliar de Desenvolvimento Web, onde sou responsável pela manutenção contínua do site institucional, além de trabalhar em melhorias na interface e na experiência do usuário.
+-  (2024 --- Atual ) Meu estagio atual na TechLife aonde trabalho em Desenvolvimento Web, onde sou responsável pela manutenção contínua do site institucional, além de trabalhar em melhorias na interface e na experiência do usuário.
 	 <details>
 	   <summary> 👀 Mais sobre o cargo  (${\color{yellow}clique\ para\ expandir}$)</summary>
 		 
@@ -76,7 +76,7 @@
   <summary> 📚 Estudos  (${\color{yellow}clique\ para\ expandir}$)</summary>
   <br>
 
--  (2025 --- 2027 ) Minha futura pós-graduação será realizada na Gran Concurso, uma instituição renomada em Brasília, onde escolhi o curso de Desenvolvedor Full Stack. A decisão foi motivada pela plataforma da faculdade, que admiro muito, além das excelentes recomendações que a instituição recebe
+-  (2025 --- 2027 ) Minha futura pós-graduação sendo realizada na Gran Concurso, uma instituição renomada em Brasília, onde escolhi o curso de Desenvolvedor Full Stack. A decisão foi motivada pela plataforma da faculdade, que admiro muito, além das excelentes recomendações que a instituição recebe
   
 -  (2023 --- Atualmente ) A Alura tem sido minha principal fonte de conhecimento para a área de Front-End, além de outras áreas como acessibilidade, comunicação e UX Design, etc.. Ela foi o "episódio" piloto para a minha entrada na área de programação. Graças a ela, adquiri os conhecimentos necessários para colocar este site e todos os meus projetos no ar.
  
